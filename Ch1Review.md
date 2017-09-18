@@ -34,3 +34,35 @@
 * ITU-T Video Quality Experts Groups(VQEG) are developing a starndard for objective video quality evaluation.
 
 ## Video processing and communications Ch1
+### 1.1
+* illuminating source vs reflecting source
+* illuminating: additive rule
+* reflecting: subtractive rule
+* eye cones => colour tone
+* eye rods => luminance
+* RGB primary set vs CMY primary set
+
+### 1.2
+* video camera and video display
+* composite video(S-video) vs component video
+* gamma correction => exponential scale
+
+### 1.3
+* Progressive and interlaced raster scan
+* very complex spectrum functions
+
+### 1.4
+* NTSC vs PAL
+* NTSC frame rate: 59.94 Hz, line number: 525 lines/frame
+* PAL frame rate: 50 Hz, line number: 625 lines/frame
+* YIQ vs YUV vs YDbDr
+* Signal bandwidth physics
+
+### 1.5
+* some notation introduction
+* spatial and temporal resolution
+* Linear transform: RGB => YCbCr
+* ITU-R BT.601: 4:4:4 vs 4:2:2 vs 4:2:0
+* ISO-MPEG introduction
+* MEPG-2 is the cornerstone of the next gerneration of TV system
+* Video Quality Measurement: MSE, PSNR, MAD
