@@ -66,3 +66,4 @@
 * ISO-MPEG introduction
 * MEPG-2 is the cornerstone of the next gerneration of TV system
 * Video Quality Measurement: MSE, PSNR, MAD
+* MAD: easier to calculate
